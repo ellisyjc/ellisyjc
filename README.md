@@ -1,3 +1,3 @@
-- Hi, I’m @ellisyjc
-- I’m digital circuit designer in Taiwan.
+- Hi, I am @ellisyjc
+- I am a digital circuit designer in Taiwan.
 - You can contact me via ellisyjc@gmail.com.
