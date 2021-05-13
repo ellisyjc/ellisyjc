@@ -1,0 +1,3 @@
+- Hi, I’m @ellisyjc
+- I’m digital circuit designer in Taiwan.
+- You can contact me via ellisyjc@gmail.com.
