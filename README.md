@@ -1,3 +1,3 @@
-- Hi, I am @ellisyjc
+- Hi, I am Ellis Chen.
 - I am a digital circuit designer in Taiwan.
 - You can contact me via ellisyjc@gmail.com.
